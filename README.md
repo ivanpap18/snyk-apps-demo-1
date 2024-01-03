@@ -67,7 +67,6 @@ This will register your new app with Snyk and create the `.env` file (see below)
     ```
     $ npm run build
     ```
-
 2. Once the TypeScript has been compiled to JavaScript(into `./dist` directory) run
 
     ```
